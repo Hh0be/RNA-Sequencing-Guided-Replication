@@ -275,7 +275,7 @@ The group partially recovered the transcriptional response to salt stress but di
 
 ## 16. Galaxy History and Workflow Evidence
 
-The Galaxy history documents the sequence of datasets and tools used during the group's RNA-seq analysis. The history screenshot provides evidence of the processing steps performed in Galaxy.
+The Galaxy history records the datasets and tools utilized throughout the group's RNA-seq analysis. The screenshot serves as documentation of the various steps carried out using the Galaxy platform.
 
 ![Galaxy History](galaxy_history.png)
 
