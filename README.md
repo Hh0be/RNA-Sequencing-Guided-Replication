@@ -122,7 +122,7 @@ These observations indicated that read trimming and filtering were appropriate b
 
 ### FastQC evidence
 
-![FastQC screenshot](FastQC%Results.png)
+![FastQC Results](fastqc.png)
 
 ## 8. Read Trimming (Cutadapt)
 
@@ -139,7 +139,7 @@ The number of reads decreased after trimming due to the removal of adapters and 
 
 ### Cutadapt evidence
 
-![Cutadapt report](Cutadapt_Report.png)
+![Cutadapt Report](cutadapt.png)
 
 ## 9. Genome Mapping (STAR)
 
@@ -156,7 +156,7 @@ Mapping percentages ranged from 79.26% to 84.56%. The uniquely mapped proportion
 
 ### STAR mapping evidence (representative sample: SRR24401893)
 
-![STAR mapping report](STAR_Mapping.png)
+![STAR Mapping](star_mapping.png)
 
 ## 10. Gene Counting (STAR GeneCounts)
 
@@ -194,13 +194,13 @@ The group reported 174 significant gene features at the adjusted p-value thresho
 
 ### DESeq2 result table
 
-![DESeq2 results](DESeq2_Results.png)
+![DESeq2 Results](deseq_results.png)
 
 ### MA plot
 
 The MA plot displays the relationship between normalized mean counts and log2 fold change for the control-versus-treatment comparison.
 
-![MA plot](MA_Plot.png)
+![MA Plot](ma_plot.png)
 
 ## 12. Selected Differentially Expressed Genes
 
@@ -277,8 +277,7 @@ The group partially recovered the transcriptional response to salt stress but di
 
 The Galaxy history documents the sequence of datasets and tools used during the group's RNA-seq analysis. The history screenshot provides evidence of the processing steps performed in Galaxy.
 
-![Galaxy History](Documented%Galaxy%History.png)
-
+![Galaxy History](galaxy_history.png)
 
 ## 17. Student Contributions
 
